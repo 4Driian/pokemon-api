@@ -1,0 +1,30 @@
+#Trabajo realizado por:
+    Camila Fallas Naranjo
+    Fabian Sandoval Elizondo
+    Adrian Zuñiga Pérez
+
+#Objetivos a realizar:
+    Listar los primeros 20 Pokémon:
+    Utiliza el PokeAPI para obtener los primeros 20 Pokémon.
+    Muestra en la consola el nombre y número de cada Pokémon.
+    Buscar Pokémon por nombre:
+    Solicita al usuario que ingrese el nombre de un Pokémon.
+    Utiliza el PokeAPI para obtener la información del Pokémon ingresado.
+    Muestra en la consola el nombre, tipo, altura y peso del Pokémon.
+    Crear un equipo de Pokémon aleatorio:
+    Utiliza el PokeAPI para obtener información sobre varios Pokémon.
+    Selecciona aleatoriamente 6 Pokémon diferentes para formar un equipo.
+    Muestra en la consola los nombres y números de los Pokémon del equipo.
+    Obtener los movimientos de un Pokémon:
+    Solicita al usuario que ingrese el nombre de un Pokémon.
+    Utiliza el PokeAPI para obtener los movimientos del Pokémon ingresado.
+    Muestra en la consola una lista de los movimientos del Pokémon.
+    Crear una Pokédex interactiva:
+    Implementa un menú en la consola donde el usuario pueda seleccionar diferentes opciones.
+    Opciones:
+    Buscar Pokémon por nombre: El usuario ingresa un nombre y se muestra en la consola la información del Pokémon.
+    Listar tipos de Pokémon: Muestra en la consola una lista de todos los tipos de Pokémon.
+    Salir: Termina la ejecución del programa.
+    Utiliza el PokeAPI para obtener la información necesaria en cada opción.
+
+Copyright © 2023 Grupo 3 Inc. All Rights Reserved
